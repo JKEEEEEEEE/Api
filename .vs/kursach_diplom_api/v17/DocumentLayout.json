@@ -1,0 +1,630 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs proekts\\kursach_diplom_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\touristroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\touristroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\prog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\prog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\placesvisited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\placesvisited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\controllers\\touristroutescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\controllers\\touristroutescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\controllers\\tourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\controllers\\tourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\controllers\\foodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\controllers\\foodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\kurcachdiplomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\kurcachdiplomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\.github\\workflows\\main.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\.github\\workflows\\main.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\tokenapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\tokenapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|d:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\models\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC9347F-736F-4C5F-B054-E24F2FB451AD}|kursach_diplom_api\\kursach_diplom_api.csproj|solutionrelative:kursach_diplom_api\\models\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\Review.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Review.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:05:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\Role.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Role.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:08:28.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\Room.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Room.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:08:30.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\RoomType.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\RoomType.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\RoomType.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\RoomType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:11:12.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\Service.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Service.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:11:15.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\Token.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Token.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:15:43.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\Tour.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Tour.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\Tour.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:15:46.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TouristRoute.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\TouristRoute.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\TouristRoute.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\TouristRoute.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\TouristRoute.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:22:50.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\User.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\User.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA3wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:19:45.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Prog.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Prog.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\Prog.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Prog.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\Prog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:05:53.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlacesVisited.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\PlacesVisited.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\PlacesVisited.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\PlacesVisited.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\PlacesVisited.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:05:50.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Photo.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\Photo.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Photo.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\Photo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:05:47.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\Payment.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Payment.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:22:16.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\Hotel.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Hotel.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\Hotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:22:13.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\Country.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Country.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:19:15.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAuwHoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:04:32.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TouristRoutesController.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\TouristRoutesController.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Controllers\\TouristRoutesController.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\TouristRoutesController.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Controllers\\TouristRoutesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:40:35.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ToursController.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\ToursController.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Controllers\\ToursController.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\ToursController.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Controllers\\ToursController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAuwH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:06:41.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Controllers\\RoomsController.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Controllers\\RoomsController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:09:00.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Controllers\\ServicesController.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Controllers\\ServicesController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:11:41.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Controllers\\ReviewsController.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:06:10.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:05:39.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Controllers\\HotelsController.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Controllers\\HotelsController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAYwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:00:10.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\Food.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Food.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:22:10.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "KurcachDiplomContext.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\KurcachDiplomContext.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\KurcachDiplomContext.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\KurcachDiplomContext.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\KurcachDiplomContext.cs",
+              "ViewState": "AQIAAHMBAAAAAAAAAAAkwIgBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:44:39.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FoodsController.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\FoodsController.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Controllers\\FoodsController.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\FoodsController.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Controllers\\FoodsController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAiwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:57:34.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\City.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\City.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\City.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:50:43.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\appsettings.json",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\appsettings.json",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\appsettings.json",
+              "RelativeToolTip": "kursach_diplom_api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T01:37:25.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\appsettings.Development.json",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\appsettings.Development.json",
+              "RelativeToolTip": "kursach_diplom_api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T13:41:51.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Controllers\\CountriesController.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Controllers\\CountriesController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:50:37.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Controllers\\CitiesController.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Controllers\\CitiesController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:46:41.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\AuthDto.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\AuthDto.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\AuthDto.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\AuthDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:31:41.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "main.yml",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\.github\\workflows\\main.yml",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\.github\\workflows\\main.yml",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\.github\\workflows\\main.yml",
+              "RelativeToolTip": "kursach_diplom_api\\.github\\workflows\\main.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-04-10T11:27:36.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Program.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Program.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Program.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:37:09.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TokenApp.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\TokenApp.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\TokenApp.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\TokenApp.cs",
+              "RelativeToolTip": "kursach_diplom_api\\TokenApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:37:15.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Auth.cs",
+              "RelativeDocumentMoniker": "kursach_diplom_api\\Models\\Auth.cs",
+              "ToolTip": "D:\\vs proekts\\kursach_diplom_api\\kursach_diplom_api\\Models\\Auth.cs",
+              "RelativeToolTip": "kursach_diplom_api\\Models\\Auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:31:34.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
